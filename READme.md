@@ -1,8 +1,6 @@
 ## Hi, Welcome To My GitHub Profile👋
 ### 👨🏽‍🔬👩🏻‍💻 Here is what I'm currently working on:
 
-Here are some ideas to get you started: -->
-
 - 📱🗣️ Studying Communication & Media, BSc.
 - 🌱📖 Learning programming, collborative-software, digital marketing, etc.
 - 🤝👯 I'm looking to collaborate on developing programs, professional enrollment, any project you would like my collaboration!
